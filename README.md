@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @humairakhushi
 - 👀 I’m interested in data science & Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning & Deep Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI based projects & open source contributions
 - 📫 How to reach me Linked In  www.linkedin.com/in/
  GitHub humaira-khushi-289391253
 github.com/humairakhush    Email humairakhushi129@gmail.com
